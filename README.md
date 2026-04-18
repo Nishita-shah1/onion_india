@@ -4,4 +4,4 @@
 - Punjab_Potato_Master_Final.csv = Agramarket
 - commodity_price.csv = https://www.kaggle.com/datasets/ishankat/daily-wholesale-commodity-prices-india-mandis
 - data.gov.in-1.csv = https://www.kaggle.com/datasets/thammuio/all-agriculture-related-datasets-for-india
-- price
+- price = https://www.kaggle.com/datasets/thammuio/all-agriculture-related-datasets-for-india
