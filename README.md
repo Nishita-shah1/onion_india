@@ -5,3 +5,4 @@
 - commodity_price.csv = https://www.kaggle.com/datasets/ishankat/daily-wholesale-commodity-prices-india-mandis
 - data.gov.in-1.csv = https://www.kaggle.com/datasets/thammuio/all-agriculture-related-datasets-for-india
 - price = https://www.kaggle.com/datasets/thammuio/all-agriculture-related-datasets-for-india
+- dataset_indian_crop_price.csv = https://www.kaggle.com/datasets/rajumavinmar/indian-agriculture-crop-price-dataset
